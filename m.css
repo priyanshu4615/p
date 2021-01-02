@@ -1,0 +1,44 @@
+div.row {
+    flex-direction: column;
+    overflow: hidden;
+}
+.col-4{
+    width: 100%;
+}
+
+p {
+    overflow: hidden;
+}
+div.col-6 {
+    margin-right: 70%; 
+
+}
+
+ ul.topnav li.dropdown {
+     display: block;
+     float: right;
+ }
+
+ ul.topnav.easy li.dropdown {
+     position: absolute;
+     top: 0;
+     right: 0;
+ }
+
+ ul.topnav.easy {
+     position: relative;
+ }
+ ul.topnav.easy li {
+     display: inline;
+     float: none;
+ }
+ ul.topnav.easy li a {
+     display: block;
+     text-align: left;
+ }
+   } 
+
+   label{
+    overflow: hidden;
+    font-size: 30px;
+}
